@@ -197,9 +197,7 @@ Os links do projeto React específico desta aula e do template ainda não foram 
 
 ## Projeto final — Itape+
 
-Plataforma de eventos e cursos em Itapetininga.
-
-[Repositório do projeto](https://github.com/RafaelRachidd/Itape-plus)
+[Itape-plus — Repositório do projeto final](https://github.com/RafaelRachidd/Itape-plus)
 
 ## Materiais
 
