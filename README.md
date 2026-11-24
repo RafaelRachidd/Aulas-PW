@@ -164,7 +164,6 @@ Os links do projeto React específico desta aula e do template ainda não foram 
 | Back-end | [Aula_8_Notas](https://github.com/RafaelRachidd/Aula_8_Notas) |
 | Front-end | [aula_8_front](https://github.com/RafaelRachidd/aula_8_front) |
 | Site | [Minhas Notas](https://aula8front.vercel.app) |
-| Coleção Postman | Link ainda não informado |
 
 ---
 
