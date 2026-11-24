@@ -74,12 +74,11 @@ Repositório das aulas, resumos, atividades e projetos da disciplina de Programa
 
 **O que foi pedido:** criar uma conta em uma plataforma de hospedagem, instalar um CMS, configurar temas e plugins e personalizar a página inicial.
 
-**O que foi feito:** criação de um site sobre música utilizando WordPress e hospedagem Pantheon.
+**O que foi feito:** criação de um site sobre música utilizando WordPress e hospedagem Pantheon. O site ficou indisponível após o fim do período de teste gratuito da plataforma.
 
 | Item | Link |
 |---|---|
-| Site | Link ainda não informado |
-| Documentação da atividade | A incluir |
+| Site | Indisponível após o fim do teste gratuito da Pantheon |
 | Resumo da aula | [Aula 04](./Resumos/aula-04-servidores-hospedagem-cms.md) |
 
 ---
