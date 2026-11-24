@@ -141,7 +141,6 @@ Os links do projeto React específico desta aula e do template ainda não foram 
 | Repositório | [api_conversor_unidade](https://github.com/RafaelRachidd/api_conversor_unidade) |
 | API no Render | [Unidades](https://api-conversor-unidade-1.onrender.com/unidades) |
 | Exemplo | [Converter 100 metros em quilômetros](https://api-conversor-unidade-1.onrender.com/converter?valor=100&de=metro&para=quilometro) |
-| Front-end | Link ainda não identificado |
 
 ---
 
